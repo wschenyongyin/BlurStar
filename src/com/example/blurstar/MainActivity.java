@@ -4,7 +4,12 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
-public class MainActivity extends Activity {
+public class MainActivity extends BaseActivity {
+
+	public MainActivity(String inTag) {
+		super(inTag);
+		// TODO Auto-generated constructor stub
+	}
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
