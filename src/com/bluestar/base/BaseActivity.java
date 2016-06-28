@@ -1,4 +1,4 @@
-package com.blurstar.base;
+package com.bluestar.base;
 
 import com.bluestar.utils.AppManager;
 import com.example.blurstar.R;

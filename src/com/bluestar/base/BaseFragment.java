@@ -1,4 +1,4 @@
-package com.blurstar.base;
+package com.bluestar.base;
 
 import com.example.blurstar.R;
 
