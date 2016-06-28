@@ -1,4 +1,7 @@
-package com.example.blurstar;
+package com.blurstar.activity;
+
+import com.blurstar.base.BaseActivity;
+import com.example.blurstar.R;
 
 import android.os.Bundle;
 import android.app.Activity;

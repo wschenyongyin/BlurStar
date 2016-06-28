@@ -1,6 +1,7 @@
-package com.example.blurstar;
+package com.blurstar.base;
 
 import com.bluestar.utils.AppManager;
+import com.example.blurstar.R;
 
 import android.content.Intent;
 import android.os.Bundle;

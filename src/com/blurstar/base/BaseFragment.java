@@ -1,4 +1,6 @@
-package com.example.blurstar;
+package com.blurstar.base;
+
+import com.example.blurstar.R;
 
 import android.annotation.SuppressLint;
 import android.app.Fragment;
