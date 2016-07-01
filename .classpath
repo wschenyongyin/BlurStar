@@ -8,5 +8,8 @@
 	<classpathentry kind="lib" path="C:/Users/wschenyongyin/Desktop/BlurStar/libs/vcameralibrary.jar"/>
 	<classpathentry kind="lib" path="C:/Users/wschenyongyin/Desktop/BlurStar/libs/vitamio.jar"/>
 	<classpathentry kind="lib" path="C:/Users/wschenyongyin/Desktop/BlurStar/libs/Volley.jar"/>
+	<classpathentry kind="lib" path="D:/Android/架包/gson解析/gson-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Android/架包/gson解析/gson-2.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Android/架包/glide-3.7.0.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
